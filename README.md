@@ -1,2 +1,3 @@
 # GMS - Garage Management System
-An advanced OOP Python project of a garage management system that includes python's collections and UI
+GMS is a Garage Management System that includes complex Object-Oriented Programing,
+advanced Python collections, Data Structures, architecture, and tkinter GUI. 
